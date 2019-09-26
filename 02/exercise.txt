@@ -1,0 +1,11 @@
+Last login: Thu Sep 26 13:08:19 on ttys000
+(base) MacbookdeMacBook-Air:~ macbookair$ cd Desktop
+(base) MacbookdeMacBook-Air:Desktop macbookair$ mkdir 'MH8811_02'
+(base) MacbookdeMacBook-Air:Desktop macbookair$ cd MH8811_02/
+(base) MacbookdeMacBook-Air:MH8811_02 macbookair$ touch my_file
+(base) MacbookdeMacBook-Air:MH8811_02 macbookair$ cd Desktop
+-bash: cd: Desktop: No such file or directory
+(base) MacbookdeMacBook-Air:MH8811_02 macbookair$ cd ..
+(base) MacbookdeMacBook-Air:Desktop macbookair$ rm -rf MH8811_02/
+(base) MacbookdeMacBook-Air:Desktop macbookair$ 
+
