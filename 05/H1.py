@@ -29,7 +29,7 @@ def des(s):
     if type_D == 'list':
         res = list()
         for string in lst_str:
-            item = string.split('',')
+            item = string.split(',')
             V = item[0]
             V1 = item[1]
 
